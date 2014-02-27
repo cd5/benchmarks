@@ -1,1 +1,5 @@
-Tul project - Benchmarks
+# Tul project - Benchmarks
+
+- binary trees
+- fprintf loop
+- Mandelbrot
